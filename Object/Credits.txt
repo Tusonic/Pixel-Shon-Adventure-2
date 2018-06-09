@@ -1,3 +1,5 @@
 PLAYER
 https://opengameart.org/content/classic-knight-animated
 
+SKELETON
+https://opengameart.org/content/skeleton-guy-animated
