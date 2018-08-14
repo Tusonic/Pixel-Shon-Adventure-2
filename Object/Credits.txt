@@ -6,3 +6,6 @@ https://opengameart.org/content/skeleton-guy-animated
 
 BAT
 https://opengameart.org/content/bat-animations
+
+PRINCESS
+https://opengameart.org/content/plucky-girl-adventuror-animated
